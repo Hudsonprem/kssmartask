@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kssmartask/static/css/main.182f9a6d.chunk.css",
+    "main.js": "/kssmartask/static/js/main.8cb86cc6.chunk.js",
+    "main.js.map": "/kssmartask/static/js/main.8cb86cc6.chunk.js.map",
+    "runtime-main.js": "/kssmartask/static/js/runtime-main.a46f22eb.js",
+    "runtime-main.js.map": "/kssmartask/static/js/runtime-main.a46f22eb.js.map",
+    "static/css/2.d34346ea.chunk.css": "/kssmartask/static/css/2.d34346ea.chunk.css",
+    "static/js/2.467900f9.chunk.js": "/kssmartask/static/js/2.467900f9.chunk.js",
+    "static/js/2.467900f9.chunk.js.map": "/kssmartask/static/js/2.467900f9.chunk.js.map",
+    "index.html": "/kssmartask/index.html",
+    "precache-manifest.9df9b381c8fe9f549b82539dfc14d82c.js": "/kssmartask/precache-manifest.9df9b381c8fe9f549b82539dfc14d82c.js",
+    "service-worker.js": "/kssmartask/service-worker.js",
+    "static/css/2.d34346ea.chunk.css.map": "/kssmartask/static/css/2.d34346ea.chunk.css.map",
+    "static/css/main.182f9a6d.chunk.css.map": "/kssmartask/static/css/main.182f9a6d.chunk.css.map",
+    "static/js/2.467900f9.chunk.js.LICENSE.txt": "/kssmartask/static/js/2.467900f9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a46f22eb.js",
+    "static/css/2.d34346ea.chunk.css",
+    "static/js/2.467900f9.chunk.js",
+    "static/css/main.182f9a6d.chunk.css",
+    "static/js/main.8cb86cc6.chunk.js"
+  ]
+}
