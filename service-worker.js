@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kssmartask/precache-manifest.9df9b381c8fe9f549b82539dfc14d82c.js"
+  "/kssmartask/precache-manifest.d838a57c5113aa08943f75955168d8bf.js"
 );
 
 self.addEventListener('message', (event) => {
