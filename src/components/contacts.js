@@ -70,8 +70,8 @@ function Contacts() {
         
         <div className="row div2 w-auto">
              
-            <div className="col-md-auto ">
-                <table className="table table-borderless table-stripped">
+            <div className="col-md-auto" style={{overflowX:"auto"}}>
+                <table className="table table-borderless table-stripped" >
                    <thead className="thead-light">
                        <tr>
                        <th>Name</th>
