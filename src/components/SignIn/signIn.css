@@ -1,0 +1,38 @@
+.signIn-div-background{
+    margin: 0%;
+    padding: 3%;
+    
+    display: grid;
+    background-color: #0d5449;
+    grid-template-columns: 480px;
+    grid-template-rows: 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    justify-content: center;
+    justify-items: center;
+}
+
+
+.signIn-div
+{
+    text-align: left;
+    margin: 2% ;
+    border-radius: 10%;
+    width: 100%;
+    height: auto;
+    border: 1px solid black;
+    padding: 10%;
+    background-color: #d0eae9;
+    grid-area: 1 / 1 / 2 / 2;
+}
+
+
+
+
+
+  
+@media only screen and (max-width: 500px) {
+  .signIn-div-background {
+      grid-template-columns: 85%;
+  }
+}
