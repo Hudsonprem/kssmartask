@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kssmartask/static/css/main.182f9a6d.chunk.css",
-    "main.js": "/kssmartask/static/js/main.be10d1d5.chunk.js",
-    "main.js.map": "/kssmartask/static/js/main.be10d1d5.chunk.js.map",
+    "main.js": "/kssmartask/static/js/main.6da2c0d9.chunk.js",
+    "main.js.map": "/kssmartask/static/js/main.6da2c0d9.chunk.js.map",
     "runtime-main.js": "/kssmartask/static/js/runtime-main.a46f22eb.js",
     "runtime-main.js.map": "/kssmartask/static/js/runtime-main.a46f22eb.js.map",
     "static/css/2.d34346ea.chunk.css": "/kssmartask/static/css/2.d34346ea.chunk.css",
     "static/js/2.467900f9.chunk.js": "/kssmartask/static/js/2.467900f9.chunk.js",
     "static/js/2.467900f9.chunk.js.map": "/kssmartask/static/js/2.467900f9.chunk.js.map",
     "index.html": "/kssmartask/index.html",
-    "precache-manifest.d838a57c5113aa08943f75955168d8bf.js": "/kssmartask/precache-manifest.d838a57c5113aa08943f75955168d8bf.js",
+    "precache-manifest.b6379bc8299a7cea07ccfab8fc2259be.js": "/kssmartask/precache-manifest.b6379bc8299a7cea07ccfab8fc2259be.js",
     "service-worker.js": "/kssmartask/service-worker.js",
     "static/css/2.d34346ea.chunk.css.map": "/kssmartask/static/css/2.d34346ea.chunk.css.map",
     "static/css/main.182f9a6d.chunk.css.map": "/kssmartask/static/css/main.182f9a6d.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.d34346ea.chunk.css",
     "static/js/2.467900f9.chunk.js",
     "static/css/main.182f9a6d.chunk.css",
-    "static/js/main.be10d1d5.chunk.js"
+    "static/js/main.6da2c0d9.chunk.js"
   ]
 }
