@@ -71,13 +71,13 @@ function Contacts() {
         <div className="row div2 w-auto">
              
             <div className="col-md-auto" style={{overflowX:"auto"}}>
-                <table className="table table-borderless table-stripped" >
-                   <thead className="thead-light">
+                <table className="table table-hover table-striped" >
+                   <thead className="thead-dark">
                        <tr>
                        <th>Name</th>
                        <th>Mobile</th>
                        <th className="w-25">Email</th>
-                       <th>Edit/Remove</th>
+                       <th >Edit/Remove</th>
                        </tr>
                    </thead>
                    <tbody>

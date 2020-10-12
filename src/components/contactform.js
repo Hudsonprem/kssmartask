@@ -60,7 +60,7 @@ function Contactform(props) {
                 <div className="form-group input-group">
                     <div className="input-group-prepend">
                         <div className="input-group-text">
-                        <i class="fas fa-mobile-alt"></i>
+                        <i className="fas fa-mobile-alt"></i>
                         </div>
                 </div>
                 <input className="form-control" placeholder="Mobile" name="mobile" value={values.mobile} onChange={onChangeValue}/>
